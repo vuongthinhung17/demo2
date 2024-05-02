@@ -1,0 +1,250 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+header{
+    background-image: url(hinhanh/bds1.jpg);
+    background-size: 100;
+    width: 100%;
+    height: 500px;
+}
+#a1{
+    float: right;
+}
+.btl a {
+    float: left;
+    display: block;
+    color: rgb(19, 18, 18);
+    text-align: center;
+    padding: 5px 8px;
+    text-decoration: none;
+}
+.btl a:hover {
+    background-color: #f8f6f6;
+    color: black;
+}
+.menu {
+    float: left;
+    overflow: hidden;
+}
+.menu .menu1 {
+    font-size: 18px;
+    border: none;
+    outline: none;
+    color: rgb(6, 6, 6);
+    padding: 14px 16px;
+    background-color: rgb(249, 251, 252);
+    font-family: inherit;
+    margin: 0;
+    background-size: 140px 70px ;
+}
+#dropdown{
+    height:30px;
+    weight:150px;
+}   
+.menu2 {
+    display: none;
+    position: absolute;
+    background-color: #fffdfd;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.menu2 a {
+    float: none;
+    color: rgb(14, 1, 1);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.menu2 a:hover {
+    background-color: #fdfbfb;
+}
+.menu:hover .menu2 {
+    display: block;
+}
+.menu3 {
+    float: right;
+    font-size:20px;
+    color:black;
+}
+#meme form{
+    padding-left: 35%;
+    padding-top: 150px;
+}
+#bo input{
+    width: 400px;
+    height: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    border-radius: 50px;
+}
+.hi{
+    display: flex;
+    color: black;
+}
+.hie{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 350px;
+    height: auto;
+    list-style: none;
+    margin-left: 90px;
+    color: black;
+}
+.hie a{
+    text-decoration: none;
+    color: black;
+}
+.hie img{
+    border-radius: 5px;
+    width: 350px; 
+    height: 250px;
+}
+.hie p{
+    padding: 5px;
+    color: black;
+}
+.ch1{
+    font-size: 20px;
+    color:#f12711
+}
+.hee{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 350px;
+    height: auto;
+    list-style: none;
+    margin-left: 90px;
+    color: black;
+}
+.hee a{
+    text-decoration: none;
+    color: black;
+}
+.hee img{
+    border-radius: 5px;
+    width: 350px; 
+    height: 250px;
+}
+.he{
+    display: flex;
+    color: black;
+}
+.box2 input[type="submit"]{
+    width:230px;
+    height: 40px;
+    border-radius: 40px;
+    margin:15px 0px;
+    border: solid 2px #f12711;
+    color: rgb(16, 13, 13);
+    font-size: 16px;
+    background:white;
+    margin-left: 650px;
+}
+.hi1 .hie1 .mb{
+    font-size: 20px;
+    color:#a71a1a;
+    margin-left: 200px;
+}
+h2{
+    text-align: center;
+    color:rgb(209, 45, 45);
+}
+.dntb{
+    text-align: center;
+}
+.dntb img{
+    border-radius: 5px;
+    width: 150px; 
+    height: 100px;
+}
+.ttbds{
+    text-align: center;
+}
+.ttbds img{
+    border-radius: 10px;
+    width: 300px; 
+    height: 200px;
+}
+
+.cute1 img{
+    width: 250px; 
+    height: 80px;
+}
+.cute{
+    display: flex;
+    color: black;
+    margin:0 auto;
+}
+.ch1{
+    font-size: 20px;
+    color:#f12711
+}
+.cute1{
+    border: 1px solid black;
+    width: 250px;
+    height: auto;
+    list-style: none;
+    margin-left: 90px;
+}
+.cute2{
+    border: 1px solid black;
+    width: 350px;
+    height: auto;
+    list-style: none;
+    margin-right: auto;
+}
+
+footer{
+    background-color:rgb(245, 240, 240);
+    height: 500px;
+    padding: 20px 20px 20px 20px ;
+}
+h3{
+    text-align: center;
+
+}
+
+.div1 li{
+    float: left;
+    margin-left: 80px;
+}
+ul {
+     list-style: none;
+}
+.div2{
+    margin-left: 20px;
+}
+.hd li{
+    float: left;
+    margin-left: 80px;
+}
+.boc{
+    display:flex;
+}
+#mem form{
+    padding-left: 35%;
+    padding-top: 150px;
+    font-size: 20px;
+}
+#bo2 input{
+    width: 300px;
+    height: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    border-radius: 5px;
+}
+#quocgia{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+#boc2{
+    margin: 16px 15px 1px 5px;
+}
+}
+.footer{
+    float: right;
+    margin-right: 20px;
+}
